@@ -5,10 +5,10 @@ library(tm)
 library(wordcloud)
 library(syuzhet)
 
-consumer_key = "mvPRP2Ac2kZ1naFzutlMQWBNL"
-consumer_secret = "gVJv1njh39HUTbnXhSUmpV0u78N4E26yutzGWgS6ikVjDbZbvH"
-access_token = "145224949-5UcYTdet9kbCV0NoIaIsLQyAilsA5jTu7PKNc6T6"
-access_secret ="N0cs27ZHO2AZjtY0vK0kqPSyn7FehuTOVBVmlUbpyeeRp"
+consumer_key = "*************"
+consumer_secret = "***************"
+access_token = "************"
+access_secret ="***********************"
 
 setup_twitter_oauth(consumer_key,consumer_secret,access_token, access_secret)
 
